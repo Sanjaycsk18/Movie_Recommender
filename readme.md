@@ -13,7 +13,7 @@ Welcome to the Movie Recommender project! This application provides personalized
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/movie-recommender.git
+    git clone https://github.com/Sanjaycsk18/movie-recommender.git
     ```
 2. Navigate to the project directory:
     ```bash
